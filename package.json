@@ -28,7 +28,7 @@
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "firebase": "^8.2.1",
+    "firebase": "^8.10.1",
     "nuxt": "^2.14.12",
     "nuxt-social-meta": "^0.0.5",
     "postcss": "^7.0.35",

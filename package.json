@@ -32,7 +32,7 @@
     "nuxt": "^2.14.12",
     "nuxt-social-meta": "^0.0.5",
     "postcss": "^7.0.35",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+    "tailwindcss": "2.2.19",
     "v-viewer": "^1.5.1",
     "vue-loading-overlay": "^3.4.2",
     "vue-scrollto": "^2.20.0",

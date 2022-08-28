@@ -27,7 +27,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
-    "core-js": "^3.6.5",
+    "core-js": "^3.24.1",
     "firebase": "^8.2.1",
     "nuxt": "^2.14.12",
     "nuxt-social-meta": "^0.0.5",
